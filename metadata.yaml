@@ -1,0 +1,33 @@
+_repo: The-Abandoned-Country-or-Frank-Reade-Jr-Exploring-a-New-Continent_56198
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Senarens, Luis
+    aliases:
+    - Senarens, Luis Philip
+    - Noname
+    birthdate: 1863
+    deathdate: 1939
+    gutenberg_agent_id: '36301'
+    url: http://www.gutenberg.org/2009/agents/36301
+description: ''
+gutenberg_issued: '2017-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56198'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dime novels'
+- !lcsh 'Inventors -- United States -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Popular literature -- United States'
+- !lcsh 'American fiction -- 19th century'
+- !lcsh 'Explorers -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Abandoned Country; or, Frank Reade, Jr., Exploring a New Continent.
+url: http://www.gutenberg.org/ebooks/56198
